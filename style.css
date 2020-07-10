@@ -1,0 +1,116 @@
+.container
+{
+	margin-bottom:60px;
+}
+.logo-img
+{
+	width:120px;
+	height: 60px;
+
+}
+.navbar-nav
+{
+   position:relative;
+   left:600px;
+}
+.buy-now-button
+{
+	padding:5px 20px;
+	background-color:#FF589B; 
+    color:white;
+    border:2px solid #FF589B;
+
+}
+.row-height
+{
+	height:500px;
+}
+.carousel-bc
+{
+	padding:20px;
+	background-color:#feeae9;
+}
+.carousel-bg
+{ 
+	background-image:url("image/bg-2.png");
+	background-repeat:no-repeat;
+	background-position:left;
+	
+}
+.carousel-bg-2
+{  
+	background-image: url(image/bg-1.png);
+	background-repeat:no-repeat;
+	background-position:left;
+}
+.smartphone-head-section
+{
+	margin-bottom:50px;
+}
+.smartphone-head-section h4
+{
+	color:orange;
+}
+.card-img-top
+{
+	width:80%;
+	display:block;
+	margin:0px auto;
+}
+.card-footer
+{
+	border:none;
+	background-color:white;
+}
+.card
+{
+	box-shadow:5px 5px 10px lightgrey;
+}
+
+.laptop-head-section
+{
+	margin-bottom:50px;
+}
+.laptop-head-section h4
+{
+	color:orange;
+}
+.categories-section
+{
+	margin-bottom:40px;
+}
+
+.categories-border
+{
+	width:135px;
+	height:9px;
+	background-color:orange;
+	border-radius:8px;
+	margin:0px auto;
+}
+.img-1,.img-2,.img-3
+{
+	 box-shadow:5px 5px 10px lightgrey;
+	 border-radius: 10px 0px 10px 0px;
+	 padding:50px;
+}
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:760px)
+{
+  
+  .navbar-nav
+{
+   position:relative;
+   left:0px;
+}
+
+}
